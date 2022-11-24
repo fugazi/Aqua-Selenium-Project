@@ -11,8 +11,8 @@ This is a Selenium Webdriver project to improve Automation Testing skills.
 * LinkedIn: [https://www.linkedin.com/in/douglasfugazi](https://www.linkedin.com/in/douglasfugazi)
 * Contact: [https://douglasfugazi.co](https://douglasfugazi.co)
 
-## 🏀 Languages and Frameworks
-This project using the following languages and frameworks:
+## 🏀 Libraries and Frameworks
+This project using the following libraries and frameworks:
 
 * [Java 11](https://openjdk.java.net/projects/jdk/11/) as the programming language
 * [JUnit](https://junit.org/junit5/) as the UnitTest framework to support the test creation
@@ -22,5 +22,6 @@ This project using the following languages and frameworks:
 * [SLF4J](https://www.slf4j.org) as the logging management strategy
 * [Project Lombok](https://projectlombok.org) as fully featured builder library
 * [Java Faker](https://github.com/DiUS/java-faker) allows us to generate fake data
+* [Rest Assured](https://rest-assured.io) as the REST API testing framework
 
 ## ⚡️Automation Test Strategy
