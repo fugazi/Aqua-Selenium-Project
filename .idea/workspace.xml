@@ -7,8 +7,6 @@
     <list default="true" id="8beaabda-d870-40e2-904f-f4767a533672" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <updated>1668733379222</updated>
       <workItem from="1668733380250" duration="2778000" />
       <workItem from="1669251288170" duration="447000" />
-      <workItem from="1669251751911" duration="824000" />
+      <workItem from="1669251751911" duration="1062000" />
     </task>
     <servers />
   </component>
